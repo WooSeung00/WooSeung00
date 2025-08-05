@@ -34,4 +34,4 @@
 ## 📫 연락처
 
 - GitHub: [github.com/WooSeung00](https://github.com/WooSeung00)
-- Email: <mailto:dlatmddn5584@naver.com>
+- Email: <dlatmddn5584@naver.com>
