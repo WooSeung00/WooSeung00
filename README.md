@@ -8,7 +8,7 @@
 
 ### 🔹 [2025HearAI (1학기)](https://github.com/2025HearAI/System)
 ### 🔹 [2025HearAIFall (2학기)](https://github.com/2025HearAIFall)
-> 실시간 수어 번역 및 감정 반영 음성 인식 시스템 (2025년 1학기 캡스톤)
+> 실시간 수어 번역 및 감정 반영 음성 인식 시스템
 
 - 담당: **음성 감정 분석 모델 개발**
 - 기술 스택: PyTorch, Librosa, CNN-GRU, Whisper, ONNX
